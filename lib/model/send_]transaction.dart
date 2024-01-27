@@ -1,8 +1,8 @@
 // import 'package:json_annotation/json_annotation.dart';
-
 // part 'ethereum_transaction.g.dart';
-
 // @JsonSerializable(includeIfNull: false)
+
+
 class EthereumTransaction {
   final String from;
   final String to;
